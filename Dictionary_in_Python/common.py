@@ -5,5 +5,5 @@ print("Keys of d1:", d1.keys())
 print("Keys of d2:", d2.keys())
 
 common = d1.keys() & d2.keys()  # -> & refer for common 
-
+# &  means intersection (common)
 print("Common keys:", common)

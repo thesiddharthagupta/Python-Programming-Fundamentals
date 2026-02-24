@@ -1,3 +1,4 @@
+#fro the replace of the words from file
 word = "programming python"   
 with open(r"File_io_in_Python\replace.txt", "r") as f:
     content = f.read()
